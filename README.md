@@ -10,5 +10,5 @@ This repository contains the assignment materials for SWEP 200 preparing for AI/
 
 ## Files Included
 - `nuclear_heat_exchanger_1000_data.csv`: The dataset containing thermal and operational readings.
-- `[Your_Notebook_Name].ipynb`: Jupyter notebook containing the Python code and analysis.
-- 
+- `[Rauf - SWEP 200].ipynb`: Jupyter notebook containing the Python code and analysis
+
